@@ -79,7 +79,17 @@ Kết quả Lighthouse 13.6.0 với Chrome, preset mobile mặc định, trên b
 | `/` | **93** | 95 | 100 | 100 |
 | `/deadlines/1` | **100** | 95 | 100 | 100 |
 
-Ảnh trang chủ trong lượt đo: [homepage.png](./evidence/homepage.png).
+## Ảnh giao diện
+
+Ảnh chụp giao diện production, mở trực tiếp ở kích thước đầy đủ:
+
+### Trang chủ
+
+![Giao diện trang chủ Deadline Hub](./evidence/homepage.png)
+
+### Danh sách deadline
+
+![Giao diện danh sách deadline của lớp](./evidence/deadlines.png)
 
 ## HTML, metadata và chia sẻ
 

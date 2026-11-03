@@ -1,0 +1,142 @@
+{
+  "subjects": [
+    {
+      "slug": "lap-trinh-web",
+      "name": "Lập trình Web",
+      "code": "INT3306",
+      "accent": "#e8f1dc",
+      "description": "Thiết kế và xây dựng ứng dụng web hiện đại với HTML, CSS, JavaScript và framework."
+    },
+    {
+      "slug": "co-so-du-lieu",
+      "name": "Cơ sở dữ liệu",
+      "code": "INT3307",
+      "accent": "#e5eef5",
+      "description": "Mô hình hóa dữ liệu, thiết kế lược đồ và thực hành truy vấn cơ sở dữ liệu."
+    },
+    {
+      "slug": "mang-may-tinh",
+      "name": "Mạng máy tính",
+      "code": "INT3309",
+      "accent": "#f8ebdc",
+      "description": "Tìm hiểu kiến trúc mạng, giao thức truyền thông và các dịch vụ Internet."
+    },
+    {
+      "slug": "phan-tich-thiet-ke",
+      "name": "Phân tích thiết kế HTTT",
+      "code": "INT3310",
+      "accent": "#f0e9f4",
+      "description": "Phân tích yêu cầu và thiết kế hệ thống thông tin theo quy trình phát triển phần mềm."
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "1",
+      "title": "Bài tập lớn — Giao diện trang chủ",
+      "description": "Hoàn thiện giao diện trang chủ responsive, thể hiện rõ cấu trúc và hệ thống điều hướng của sản phẩm. Nộp mã nguồn và ảnh chụp giao diện trên LMS.",
+      "subjectSlug": "lap-trinh-web",
+      "dueDate": "2026-11-08T23:59:00+07:00",
+      "type": "Bài tập lớn",
+      "completedBy": []
+    },
+    {
+      "id": "2",
+      "title": "Thực hành CSS Grid và Flexbox",
+      "description": "Dựng lại layout mẫu bằng CSS Grid và Flexbox. Nộp link repository kèm ảnh giao diện trên hai kích thước màn hình.",
+      "subjectSlug": "lap-trinh-web",
+      "dueDate": "2026-11-12T23:59:00+07:00",
+      "type": "Thực hành",
+      "completedBy": []
+    },
+    {
+      "id": "3",
+      "title": "Bài tập lớn — Tích hợp API",
+      "description": "Tích hợp API vào sản phẩm nhóm, xử lý trạng thái loading và error. Mỗi nhóm gửi link demo cùng phần mô tả ngắn.",
+      "subjectSlug": "lap-trinh-web",
+      "dueDate": "2026-11-21T23:59:00+07:00",
+      "type": "Bài tập lớn",
+      "completedBy": []
+    },
+    {
+      "id": "4",
+      "title": "Thiết kế ERD hệ thống thư viện",
+      "description": "Phân tích nghiệp vụ thư viện, xây dựng sơ đồ ERD và chuyển đổi sang mô hình quan hệ. Nộp file PDF.",
+      "subjectSlug": "co-so-du-lieu",
+      "dueDate": "2026-11-10T23:59:00+07:00",
+      "type": "Bài tập",
+      "completedBy": []
+    },
+    {
+      "id": "5",
+      "title": "Thực hành truy vấn SQL",
+      "description": "Viết các câu truy vấn SELECT, JOIN, GROUP BY theo bộ dữ liệu được cung cấp trên lớp.",
+      "subjectSlug": "co-so-du-lieu",
+      "dueDate": "2026-11-15T23:59:00+07:00",
+      "type": "Thực hành",
+      "completedBy": []
+    },
+    {
+      "id": "6",
+      "title": "Bài tập chuẩn hóa dữ liệu",
+      "description": "Chuẩn hóa lược đồ đến 3NF, giải thích các phụ thuộc hàm và nêu rõ lý do tách quan hệ.",
+      "subjectSlug": "co-so-du-lieu",
+      "dueDate": "2026-11-24T23:59:00+07:00",
+      "type": "Bài tập",
+      "completedBy": []
+    },
+    {
+      "id": "7",
+      "title": "Báo cáo mô hình OSI và TCP/IP",
+      "description": "Trình bày chức năng các tầng mạng, đối chiếu hai mô hình và đưa ví dụ giao thức thực tế.",
+      "subjectSlug": "mang-may-tinh",
+      "dueDate": "2026-11-09T23:59:00+07:00",
+      "type": "Báo cáo",
+      "completedBy": []
+    },
+    {
+      "id": "8",
+      "title": "Thực hành chia subnet",
+      "description": "Hoàn thành bài tập chia subnet IPv4 theo yêu cầu số lượng host và sơ đồ mạng cho trước.",
+      "subjectSlug": "mang-may-tinh",
+      "dueDate": "2026-11-17T23:59:00+07:00",
+      "type": "Thực hành",
+      "completedBy": []
+    },
+    {
+      "id": "9",
+      "title": "Bài tập cấu hình định tuyến",
+      "description": "Cấu hình định tuyến tĩnh trên mô phỏng, kiểm tra kết nối và nộp file cấu hình.",
+      "subjectSlug": "mang-may-tinh",
+      "dueDate": "2026-11-26T23:59:00+07:00",
+      "type": "Bài tập",
+      "completedBy": []
+    },
+    {
+      "id": "10",
+      "title": "Sơ đồ Use Case hệ thống bán hàng",
+      "description": "Xác định tác nhân, chức năng và xây dựng sơ đồ Use Case tổng quát cho hệ thống bán hàng.",
+      "subjectSlug": "phan-tich-thiet-ke",
+      "dueDate": "2026-11-11T23:59:00+07:00",
+      "type": "Bài tập",
+      "completedBy": []
+    },
+    {
+      "id": "11",
+      "title": "Đặc tả yêu cầu phần mềm",
+      "description": "Viết đặc tả yêu cầu chức năng và phi chức năng cho đề tài nhóm theo mẫu SRS.",
+      "subjectSlug": "phan-tich-thiet-ke",
+      "dueDate": "2026-11-19T23:59:00+07:00",
+      "type": "Báo cáo",
+      "completedBy": []
+    },
+    {
+      "id": "12",
+      "title": "Bài tập lớn — Prototype ứng dụng",
+      "description": "Xây dựng prototype có thể tương tác cho các luồng chính, kèm sơ đồ kiến trúc và phân công nhóm.",
+      "subjectSlug": "phan-tich-thiet-ke",
+      "dueDate": "2026-11-28T23:59:00+07:00",
+      "type": "Bài tập lớn",
+      "completedBy": []
+    }
+  ]
+}
